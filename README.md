@@ -52,7 +52,7 @@
 
    `draw(n)` takes in a number `n`, and prints the stars (`*`) into the console in this pattern:
 
-   > Hint: Use nested loop, using assignment operator “=+”,
+   > Hint: Use nested loop, using assignment operator “+=”,
    > and “\n” which is new line character (read “back-slash-N”)
 
    ```javascript
@@ -68,7 +68,7 @@
 6. Re-write `draw(n)` as `drawNg(n)` (-ng suffix is usually used for next-gen)
    Like `draw(n)`, but this time `drawNg(n)` prints this pattern:
 
-   > Hint: Use nested loop, using assignment operator “=+”,
+   > Hint: Use nested loop, using assignment operator “+=”,
    > and “\n” which is new line character (read “back-slash-N”)
 
    ```javascript
