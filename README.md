@@ -325,6 +325,8 @@
     `maxNegMinPos(arr)` takes in an array `arr`, and it prints the max negative value (maxNeg)
     as well as the min positive value (minPos)
 
+    > You are not allowed to use `Math.min` or `Math.max` method.
+
     ```javascript
     const arr = [12, -13, 14, 4, 2, -1, -18]
 
