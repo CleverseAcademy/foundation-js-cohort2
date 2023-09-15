@@ -246,6 +246,8 @@
 
     `flatMap(arr)` takes in an array of arrays, and returns the flattened array.
 
+    > You are not allowed to use `Array.flat` method.
+
     ```javascript
     const arr = [
       [1, 2, 3],
